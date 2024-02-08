@@ -1,0 +1,8 @@
+{
+  "name": "mini-web-games",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/mini-web-games/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
